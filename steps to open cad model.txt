@@ -1,0 +1,4 @@
+To access the cad model
+- first open parts of bearing and later its particular assembly 
+-then open all the other components of the model
+-at the end open final assembly 
